@@ -1,0 +1,51 @@
+.navbar {
+    background-color: #391847;
+    color: white;
+  }
+  
+.nav-item {
+    color: #B4914C;
+  }
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+      }
+
+#img {
+    width:100%;
+    height:auto;
+}
+
+.footer {
+    background-color: #B4914C;
+   padding: 150px;
+   padding-left: 300px;
+   padding-right: 300px;
+   margin-top: 50px;
+  }
+
+  .link-secondary{
+    color: #391847
+}
+
+.accordion {
+    margin-top: 30px;
+}
+
+.accordion-button {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #B4914C;
+    
+}
+
+.accordion-collapse { 
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #B4914C;
+    background-color: #391847;
+
+}

@@ -1,0 +1,68 @@
+.navbar {
+    background-color: #391847;
+    color: white;
+  }
+  
+  .nav-item {
+    color: #B4914C;
+  }
+
+
+#us {
+    width: 500px;
+    height: 500px;
+    border-radius: 60px;
+}
+
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+      }
+
+#img {
+    width:100%;
+    height:auto;
+}
+
+.card {
+    margin-top: 40px;
+    border: none;
+    margin-left: 50px;
+}
+.footer {
+    background-color: #B4914C;
+   padding: 150px;
+   padding-left: 300px;
+   padding-right: 300px;
+   margin-top: 50px;
+  }
+
+  
+  .card-title {
+    text-align: left;
+    color: #B4914C;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size:100px;
+    margin-top: 20px;
+  }
+
+.card-body {
+    text-align: left;
+    color: #391847;
+    font-family: 'Courier New', monospace;
+    font-style: bold;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 100;
+}
+
+.link-secondary{
+    color: #391847;
+}
